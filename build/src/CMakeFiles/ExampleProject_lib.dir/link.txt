@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libExampleProject_lib.a CMakeFiles/ExampleProject_lib.dir/DieselCar.cpp.o CMakeFiles/ExampleProject_lib.dir/ElectricCar.cpp.o CMakeFiles/ExampleProject_lib.dir/FuelVehicle.cpp.o CMakeFiles/ExampleProject_lib.dir/GasCar.cpp.o CMakeFiles/ExampleProject_lib.dir/Vehicle.cpp.o CMakeFiles/ExampleProject_lib.dir/main.cpp.o
+/usr/bin/ranlib.exe libExampleProject_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/ExampleProject_tst.dir/TestDieselCar.cpp.o -o ExampleProject_tst.exe -Wl,--out-implib,libExampleProject_tst.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ../src/libExampleProject_lib.a ../lib/libgtest.a 
